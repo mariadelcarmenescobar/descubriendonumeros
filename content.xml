@@ -1,0 +1,2406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260503234514ULXTEK</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260503234514HBWA1I</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>DOMINANDO LOS NÚMEROS</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Un viaje lúdico hacia la asociación numérica</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>María del Carmen Escobar Gómez</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Situación de Aprendizaje gamificada dirigida a alumnado con necesidades educativas especiales de 1º y 2º de Educación Primaria. Reconocimiento y asociación de los números del 1 al 6, desarrollando al mismo tiempo habilidades sociales básicas como el respeto de turnos, el diálogo y la gestión emocional. </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777844652628</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-moqaqwrd-3wq9qffv3</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>M1. Presentación del Proyecto</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>M1. Presentación del Proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>M1. Presentación del Proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>M1. Presentación del Proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moqaqwrd-3wq9qffv3</odePageId>
+      <odeBlockId>block-1777841302179-r6rj5wa89</odeBlockId>
+      <blockName>&quot;Dominando los números: Un viaje lúdico hacia la asociación numérica&quot;</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moqaqwrd-3wq9qffv3</odePageId>
+          <odeBlockId>block-1777841302179-r6rj5wa89</odeBlockId>
+          <odeIdeviceId>idevice-1777841302175-ovgbgb6lu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Un proyecto gamificado para el reconocimiento y asociación de conceptos numéricos (1–6) y el desarrollo de habilidades sociales básicas.</p>
+<p>🎯 1º y 2º Primaria · NEE | ⏱ 1 sesión de apoyo | ♟ Dominó adaptado</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777841302175-ovgbgb6lu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Un proyecto gamificado para el reconocimiento y asociación de conceptos numéricos (1–6) y el desarrollo de habilidades sociales básicas.</p>\n<p>🎯 1º y 2º Primaria · NEE | ⏱ 1 sesión de apoyo | ♟ Dominó adaptado</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moqaqwrd-3wq9qffv3</odePageId>
+      <odeBlockId>block-1777841367617-oeczii15h</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moqaqwrd-3wq9qffv3</odePageId>
+          <odeBlockId>block-1777841367617-oeczii15h</odeBlockId>
+          <odeIdeviceId>idevice-1777841367616-ojov0yc2q</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Nivel educativo: </strong>Alumnado con necesidades educativas especiales: 1 alumna de 1º y 1 alumno de 2º de Educación Primaria.</p>
+<p><strong>Materias implicadas: </strong>Matemáticas (numeración y asociación), Lengua Castellana (diálogo y expresión), Educación en Valores (turno y respeto).</p>
+<p><strong>Temporalización</strong>: Una sesión de clase de apoyo a la integración, organizada en tareas secuenciadas de 3 a 15 minutos cada una.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777841367616-ojov0yc2q","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Nivel educativo: </strong>Alumnado con necesidades educativas especiales: 1 alumna de 1º y 1 alumno de 2º de Educación Primaria.</p>\n<p><strong>Materias implicadas: </strong>Matemáticas (numeración y asociación), Lengua Castellana (diálogo y expresión), Educación en Valores (turno y respeto).</p>\n<p><strong>Temporalización</strong>: Una sesión de clase de apoyo a la integración, organizada en tareas secuenciadas de 3 a 15 minutos cada una.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moqaqwrd-3wq9qffv3</odePageId>
+      <odeBlockId>block-1777841454636-rk1v7e4vu</odeBlockId>
+      <blockName>¿En qué consiste el proyecto?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moqaqwrd-3wq9qffv3</odePageId>
+          <odeBlockId>block-1777841454636-rk1v7e4vu</odeBlockId>
+          <odeIdeviceId>idevice-1777841454633-d2sbkrbrf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El alumnado participará en una partida de dominó adaptado con fichas de madera que representan números del 1 al 6 con diferentes colores. A través de esta dinámica, deberán identificar, asociar y manipular las fichas, debatiendo con el compañero las posibles combinaciones y respetando las reglas del juego para completar las relaciones numéricas propuestas.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777841454633-d2sbkrbrf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El alumnado participará en una partida de dominó adaptado con fichas de madera que representan números del 1 al 6 con diferentes colores. A través de esta dinámica, deberán identificar, asociar y manipular las fichas, debatiendo con el compañero las posibles combinaciones y respetando las reglas del juego para completar las relaciones numéricas propuestas.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moqaqwrd-3wq9qffv3</odePageId>
+      <odeBlockId>block-1777841480681-rahi10ck1</odeBlockId>
+      <blockName>Justificación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moqaqwrd-3wq9qffv3</odePageId>
+          <odeBlockId>block-1777841480681-rahi10ck1</odeBlockId>
+          <odeIdeviceId>idevice-1777841480680-mr30qezyv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Metodología activa. </strong>Se justifica el uso del dominó porque es un material visual y manipulativo, lo que facilita que el alumnado con necesidades especiales comprenda la dinámica y se mantenga motivado.</p>
+<p><strong>Gestión emocional.</strong> Se crea un ambiente donde el alumnado se sienta satisfecho y motivado. La intervención basada en el acompañamiento y el refuerzo positivo transforma la frustración en aprendizaje.</p>
+<p><strong>Atención a la diversidad</strong>. Cada estudiante aprende a su propio ritmo. El proyecto integra instrucciones claras y apoyos visuales para reducir la incertidumbre y fomentar la interacción entre iguales.</p>
+<p><strong>Mejora continua. </strong>La situación integra mejoras como el uso de ejemplos visuales previos y la organización estructurada de los turnos para asegurar una experiencia positiva y significativa.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777841480680-mr30qezyv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Metodología activa. </strong>Se justifica el uso del dominó porque es un material visual y manipulativo, lo que facilita que el alumnado con necesidades especiales comprenda la dinámica y se mantenga motivado.</p>\n<p><strong>Gestión emocional.</strong> Se crea un ambiente donde el alumnado se sienta satisfecho y motivado. La intervención basada en el acompañamiento y el refuerzo positivo transforma la frustración en aprendizaje.</p>\n<p><strong>Atención a la diversidad</strong>. Cada estudiante aprende a su propio ritmo. El proyecto integra instrucciones claras y apoyos visuales para reducir la incertidumbre y fomentar la interacción entre iguales.</p>\n<p><strong>Mejora continua. </strong>La situación integra mejoras como el uso de ejemplos visuales previos y la organización estructurada de los turnos para asegurar una experiencia positiva y significativa.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moqaqwrg-otgpa307l</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>M2. Protección de Datos</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>M2. Protección de Datos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>M2. Protección de Datos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moqaqwrg-otgpa307l</odePageId>
+      <odeBlockId>block-1777841519569-r00iw58yc</odeBlockId>
+      <blockName>Protección de Datos Personales y Garantías Digitales</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moqaqwrg-otgpa307l</odePageId>
+          <odeBlockId>block-1777841519569-r00iw58yc</odeBlockId>
+          <odeIdeviceId>idevice-1777841519568-99z7e122d</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Trabajamos seguros en el mundo digital Conoce tus derechos digitales y cómo proteger tu información personal en internet.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777841519568-99z7e122d","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Trabajamos seguros en el mundo digital Conoce tus derechos digitales y cómo proteger tu información personal en internet.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moqaqwrg-otgpa307l</odePageId>
+      <odeBlockId>block-1777841547537-gfo56u4ic</odeBlockId>
+      <blockName>Marco legal</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moqaqwrg-otgpa307l</odePageId>
+          <odeBlockId>block-1777841547537-gfo56u4ic</odeBlockId>
+          <odeIdeviceId>idevice-1777841547536-b722jzctr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La actividad cumple con la normativa vigente en materia de protección de datos:</p>
+<p>RGPD: Reglamento General de Protección de Datos (UE 2016/679)<br />LOPDGDD: Ley Orgánica 3/2018 de Protección de Datos Personales<br />LOMLOE: Ley Orgánica 3/2020 de Educación<br />No se recogen ni publican datos personales ni imágenes del alumnado sin el consentimiento expreso de las familias. Todos los recursos digitales utilizados cumplen con la normativa de privacidad aplicable.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777841547536-b722jzctr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La actividad cumple con la normativa vigente en materia de protección de datos:</p>\n<p>RGPD: Reglamento General de Protección de Datos (UE 2016/679)<br />LOPDGDD: Ley Orgánica 3/2018 de Protección de Datos Personales<br />LOMLOE: Ley Orgánica 3/2020 de Educación<br />No se recogen ni publican datos personales ni imágenes del alumnado sin el consentimiento expreso de las familias. Todos los recursos digitales utilizados cumplen con la normativa de privacidad aplicable.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moqaqwrg-otgpa307l</odePageId>
+      <odeBlockId>block-1777841594883-ajizopc6v</odeBlockId>
+      <blockName>Derechos digitales del alumnado</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moqaqwrg-otgpa307l</odePageId>
+          <odeBlockId>block-1777841594883-ajizopc6v</odeBlockId>
+          <odeIdeviceId>idevice-1777841594881-inu30gczv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Derecho a la privacidad en el entorno digital<br />Derecho al olvido y a la cancelación de datos<br />Derecho a la seguridad en el uso de plataformas educativas<br />Derecho a la información sobre el uso de sus datos</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777841594881-inu30gczv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Derecho a la privacidad en el entorno digital<br />Derecho al olvido y a la cancelación de datos<br />Derecho a la seguridad en el uso de plataformas educativas<br />Derecho a la información sobre el uso de sus datos</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moqaqwrg-otgpa307l</odePageId>
+      <odeBlockId>block-1777841659956-usccn08jj</odeBlockId>
+      <blockName>Infografía</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moqaqwrg-otgpa307l</odePageId>
+          <odeBlockId>block-1777841659956-usccn08jj</odeBlockId>
+          <odeIdeviceId>idevice-1777841659953-vyzucuyt6</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1777841659953-vyzucuyt6" title="" href="{{context_path}}/content/resources/2.3 Infografía Protección de Datos.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/2.3 Infografía Protección de Datos.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777841659953-vyzucuyt6","img_0":{"img":"{{context_path}}/content/resources/2.3 Infografía Protección de Datos.jpg","thumbnail":"{{context_path}}/content/resources/2.3 Infografía Protección de Datos.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moqaqwri-v7zsbhk2i</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>M3. Producto Final</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>M3. Producto Final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>M3. Producto Final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moqaqwri-v7zsbhk2i</odePageId>
+      <odeBlockId>block-1777841747562-07itnv4zg</odeBlockId>
+      <blockName>Producto Final: Dominó adaptado</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moqaqwri-v7zsbhk2i</odePageId>
+          <odeBlockId>block-1777841747562-07itnv4zg</odeBlockId>
+          <odeIdeviceId>idevice-1777841747560-fezn5z60s</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El producto final es una partida de dominó adaptado con fichas de madera que representan los números del 1 al 6 con diferentes colores. El alumnado deberá identificar, asociar y manipular las fichas correctamente para completar el juego.</p>
+<p>Propondré a mi alumnado de 6 años el uso de la herramienta digital Canva para la elaboración de su producto final, que consistirá en la creación de materiales visuales sencillos (láminas, tarjetas o pequeños carteles) relacionados con el aprendizaje de los números.</p>
+<p> El objetivo principal es que el alumnado cree un mural digital interactivo o una serie de tarjetas visuales donde asocien el número grafiado con su cantidad correspondiente mediante el uso de elementos multimedia, permitiéndoles demostrar de forma tangible la adquisición de las competencias matemáticas trabajadas. De esta manera se facilita la comprensión, el reconocimiento y la asociación de los números mediante el uso de imágenes, colores y elementos visuales atractivos, adaptados a la edad y a las necesidades del alumnado de Educación Especial.</p>
+<p>La elección de Canva se justifica por su gran versatilidad y facilidad de uso. Permite crear materiales muy visuales y personalizados, algo fundamental para alumnado de 6 años, que necesita apoyos gráficos claros y motivadores. Además, se puede adaptar previamente los recursos según el nivel de cada estudiante, favoreciendo la inclusión y la atención a la diversidad.</p>
+<p>Por otro lado, es una herramienta accesible desde distintos dispositivos del centro, lo que facilita su integración en el aula. Sus plantillas ayudan a estructurar la información de forma sencilla, favoreciendo la atención y evitando la sobrecarga cognitiva.</p>
+<p>Finalmente, el uso de esta herramienta contribuye a aumentar la motivación, fomentar la participación activa y desarrollar progresivamente la competencia digital, siempre desde un enfoque lúdico y adaptado a su edad.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777841747560-fezn5z60s","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El producto final es una partida de dominó adaptado con fichas de madera que representan los números del 1 al 6 con diferentes colores. El alumnado deberá identificar, asociar y manipular las fichas correctamente para completar el juego.</p>\n<p>Propondré a mi alumnado de 6 años el uso de la herramienta digital Canva para la elaboración de su producto final, que consistirá en la creación de materiales visuales sencillos (láminas, tarjetas o pequeños carteles) relacionados con el aprendizaje de los números.</p>\n<p> El objetivo principal es que el alumnado cree un mural digital interactivo o una serie de tarjetas visuales donde asocien el número grafiado con su cantidad correspondiente mediante el uso de elementos multimedia, permitiéndoles demostrar de forma tangible la adquisición de las competencias matemáticas trabajadas. De esta manera se facilita la comprensión, el reconocimiento y la asociación de los números mediante el uso de imágenes, colores y elementos visuales atractivos, adaptados a la edad y a las necesidades del alumnado de Educación Especial.</p>\n<p>La elección de Canva se justifica por su gran versatilidad y facilidad de uso. Permite crear materiales muy visuales y personalizados, algo fundamental para alumnado de 6 años, que necesita apoyos gráficos claros y motivadores. Además, se puede adaptar previamente los recursos según el nivel de cada estudiante, favoreciendo la inclusión y la atención a la diversidad.</p>\n<p>Por otro lado, es una herramienta accesible desde distintos dispositivos del centro, lo que facilita su integración en el aula. Sus plantillas ayudan a estructurar la información de forma sencilla, favoreciendo la atención y evitando la sobrecarga cognitiva.</p>\n<p>Finalmente, el uso de esta herramienta contribuye a aumentar la motivación, fomentar la participación activa y desarrollar progresivamente la competencia digital, siempre desde un enfoque lúdico y adaptado a su edad.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moqaqwri-v7zsbhk2i</odePageId>
+      <odeBlockId>block-1777841770097-y7cvp9xz8</odeBlockId>
+      <blockName>Objetivos del producto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moqaqwri-v7zsbhk2i</odePageId>
+          <odeBlockId>block-1777841770097-y7cvp9xz8</odeBlockId>
+          <odeIdeviceId>idevice-1777841770097-a8mxd0aks</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Reconocer visualmente los números del 1 al 6</li>
+<li>Asociar cada número con su cantidad correspondiente</li>
+<li>Respetar el turno y las normas del juego</li>
+<li>Dialogar con el compañero para tomar decisiones</li>
+<li>Desarrollar la autonomía y la confianza en uno mismo</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777841770097-a8mxd0aks","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Reconocer visualmente los números del 1 al 6</li>\n<li>Asociar cada número con su cantidad correspondiente</li>\n<li>Respetar el turno y las normas del juego</li>\n<li>Dialogar con el compañero para tomar decisiones</li>\n<li>Desarrollar la autonomía y la confianza en uno mismo</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moqaqwri-v7zsbhk2i</odePageId>
+      <odeBlockId>block-1777841815331-8n4a3zkav</odeBlockId>
+      <blockName>Materiales necesarios</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moqaqwri-v7zsbhk2i</odePageId>
+          <odeBlockId>block-1777841815331-8n4a3zkav</odeBlockId>
+          <odeIdeviceId>idevice-1777841815329-y4uqxslxs</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Fichas de dominó adaptadas con números del 1 al 6</li>
+<li>Colores diferenciados por números</li>
+<li>Pictogramas de apoyo visual con las instrucciones</li>
+<li>Tablet para la evaluación lúdica final</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777841815329-y4uqxslxs","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Fichas de dominó adaptadas con números del 1 al 6</li>\n<li>Colores diferenciados por números</li>\n<li>Pictogramas de apoyo visual con las instrucciones</li>\n<li>Tablet para la evaluación lúdica final</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moqaqwrj-kbcpinx2j</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>M4. Curación de Contenidos</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>M4. Curación de Contenidos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>M4. Curación de Contenidos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moqaqwrj-kbcpinx2j</odePageId>
+      <odeBlockId>block-1777842003213-4b3a2v5xc</odeBlockId>
+      <blockName>Curación de Contenidos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moqaqwrj-kbcpinx2j</odePageId>
+          <odeBlockId>block-1777842003213-4b3a2v5xc</odeBlockId>
+          <odeIdeviceId>idevice-1777842003209-iky2fiqyh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Se han utilizado las siguientes plataformas digitales para organizar y presentar los contenidos del proyecto de forma visual e interactiva.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777842003209-iky2fiqyh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Se han utilizado las siguientes plataformas digitales para organizar y presentar los contenidos del proyecto de forma visual e interactiva.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moqaqwrj-kbcpinx2j</odePageId>
+      <odeBlockId>block-1777842038810-cojbczgfp</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moqaqwrj-kbcpinx2j</odePageId>
+          <odeBlockId>block-1777842038810-cojbczgfp</odeBlockId>
+          <odeIdeviceId>idevice-1777842038809-4c1rnafir</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>PADLET: Mural colaborativo digital donde se recopilan y organizan todos los recursos, actividades y materiales del proyecto de forma visual e interactiva.</p>
+<p><a href="https://padlet.com/mariadelcarmenescobar/aprendemos-los-n-meros-del-1-al-10-alu4h21baao0xkwm" target="_blank" rel="noopener" title="">Padlet: Mural colaborativo</a></p>
+<p>GENIALLY: Presentación interactiva con los contenidos curados y seleccionados para la unidad de aprendizaje, accesible desde cualquier dispositivo.</p>
+<p><a href="https://view.genially.com/69d68ffe58fe426f99e36265" target="_blank" title="" rel="noopener">Genially Curación de Contenidos</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777842038809-4c1rnafir","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>PADLET: Mural colaborativo digital donde se recopilan y organizan todos los recursos, actividades y materiales del proyecto de forma visual e interactiva.</p>\n<p><a href=\"https://padlet.com/mariadelcarmenescobar/aprendemos-los-n-meros-del-1-al-10-alu4h21baao0xkwm\" target=\"_blank\" rel=\"noopener\" title=\"\">Padlet: Mural colaborativo</a></p>\n<p>GENIALLY: Presentación interactiva con los contenidos curados y seleccionados para la unidad de aprendizaje, accesible desde cualquier dispositivo.</p>\n<p><a href=\"https://view.genially.com/69d68ffe58fe426f99e36265\" target=\"_blank\" title=\"\" rel=\"noopener\">Genially Curación de Contenidos</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moqaqwrj-88yhe2at7</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>M5. Línea Temporal</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>M5. Línea Temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>M5. Línea Temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moqaqwrj-88yhe2at7</odePageId>
+      <odeBlockId>block-1777842388227-01z4m4j0g</odeBlockId>
+      <blockName>Línea Temporal de las Actividades</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moqaqwrj-88yhe2at7</odePageId>
+          <odeBlockId>block-1777842388227-01z4m4j0g</odeBlockId>
+          <odeIdeviceId>idevice-1777842388225-78lmzs26d</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La sesión se organiza en 7 actividades secuenciadas con tiempos definidos para garantizar un ritmo adecuado al alumnado con necesidades educativas especiales.</p>
+<p><a href="https://view.genially.com/69e0b9266898780ba24bf328" target="_blank" rel="noopener" title="">Genially Línea Temporal</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777842388225-78lmzs26d","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La sesión se organiza en 7 actividades secuenciadas con tiempos definidos para garantizar un ritmo adecuado al alumnado con necesidades educativas especiales.</p>\n<p><a href=\"https://view.genially.com/69e0b9266898780ba24bf328\" target=\"_blank\" rel=\"noopener\" title=\"\">Genially Línea Temporal</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moqaqwrj-88yhe2at7</odePageId>
+      <odeBlockId>block-1777842431490-fy70gzb7l</odeBlockId>
+      <blockName>Secuenciación de Actividades</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moqaqwrj-88yhe2at7</odePageId>
+          <odeBlockId>block-1777842431490-fy70gzb7l</odeBlockId>
+          <odeIdeviceId>idevice-1777842431489-n2rs1672m</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Actividad 1</strong> · Activación de conocimientos previos ⏱ 5–7 min | Individual y pequeño grupo Recordar qué saben sobre los números del 1 al 6.</p>
+<p><strong>Actividad 2 </strong>· Modelado del juego ⏱ 5 min | Gran grupo (docente + alumnado) El docente explica y demuestra cómo se juega al dominó adaptado.</p>
+<p><strong>Actividad 3</strong> · Juego guiado de dominó ⏱ 15 min | Parejas El alumnado juega con las fichas identificando y asociando números.</p>
+<p><strong>Actividad 4</strong> · Diálogo y toma de decisiones ⏱ 5–7 min | Parejas Justificar en voz alta las asociaciones numéricas realizadas.</p>
+<p><strong>Actividad 5</strong> · Resolución de conflictos ⏱ 3–5 min | Parejas con apoyo docente Gestionar posibles desacuerdos usando el diálogo y pictogramas.</p>
+<p><strong>Actividad 6</strong> · Evaluación lúdica ⏱ 5–7 min | Individual Actividad de consolidación mediante Kahoot! o arrastre de fichas.</p>
+<p><strong>Actividad 7</strong> · Autoevaluación guiada ⏱ 7 min | Individual y pequeño grupo Identificar emociones y expresar cómo se han sentido durante la sesión.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777842431489-n2rs1672m","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Actividad 1</strong> · Activación de conocimientos previos ⏱ 5–7 min | Individual y pequeño grupo Recordar qué saben sobre los números del 1 al 6.</p>\n<p><strong>Actividad 2 </strong>· Modelado del juego ⏱ 5 min | Gran grupo (docente + alumnado) El docente explica y demuestra cómo se juega al dominó adaptado.</p>\n<p><strong>Actividad 3</strong> · Juego guiado de dominó ⏱ 15 min | Parejas El alumnado juega con las fichas identificando y asociando números.</p>\n<p><strong>Actividad 4</strong> · Diálogo y toma de decisiones ⏱ 5–7 min | Parejas Justificar en voz alta las asociaciones numéricas realizadas.</p>\n<p><strong>Actividad 5</strong> · Resolución de conflictos ⏱ 3–5 min | Parejas con apoyo docente Gestionar posibles desacuerdos usando el diálogo y pictogramas.</p>\n<p><strong>Actividad 6</strong> · Evaluación lúdica ⏱ 5–7 min | Individual Actividad de consolidación mediante Kahoot! o arrastre de fichas.</p>\n<p><strong>Actividad 7</strong> · Autoevaluación guiada ⏱ 7 min | Individual y pequeño grupo Identificar emociones y expresar cómo se han sentido durante la sesión.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moqaqwrk-wxr0am28j</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>M6. Criterios de Evaluación</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>M6. Criterios de Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>M6. Criterios de Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moqaqwrk-wxr0am28j</odePageId>
+      <odeBlockId>block-1777842521177-kgsxfri91</odeBlockId>
+      <blockName>Criterios de Evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moqaqwrk-wxr0am28j</odePageId>
+          <odeBlockId>block-1777842521177-kgsxfri91</odeBlockId>
+          <odeIdeviceId>idevice-1777842521175-yz3zv9l9m</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Se evalúan los siguientes aspectos relacionados con el reconocimiento, asociación y manejo de los números del 1 al 6, así como las habilidades sociales trabajadas durante la sesión.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777842521175-yz3zv9l9m","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Se evalúan los siguientes aspectos relacionados con el reconocimiento, asociación y manejo de los números del 1 al 6, así como las habilidades sociales trabajadas durante la sesión.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moqaqwrk-wxr0am28j</odePageId>
+      <odeBlockId>block-1777842716267-xkeopdstx</odeBlockId>
+      <blockName>Tareas y Criterios</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moqaqwrk-wxr0am28j</odePageId>
+          <odeBlockId>block-1777842716267-xkeopdstx</odeBlockId>
+          <odeIdeviceId>idevice-1777842716265-ts9xiauwm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><strong>ASOCIAMOS TAREAS A CRITERIOS DE EVALUACIÓN</strong></p>
+<table border="1" cellpadding="8" cellspacing="0" width="100%">
+<thead>
+<tr style="background-color: #2d1b69; color: white;">
+<th>Criterio</th>
+<th>Descripción</th>
+<th>Instrumento</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Reconocimiento numérico</strong></td>
+<td>Identifica visualmente los números del 1 al 6</td>
+<td>Observación directa</td>
+</tr>
+<tr>
+<td><strong>Asociación número-cantidad</strong></td>
+<td>Relaciona cada número con su cantidad correcta</td>
+<td>Rúbrica</td>
+</tr>
+<tr>
+<td><strong>Conteo oral</strong></td>
+<td>Cuenta secuencialmente del 1 al 6</td>
+<td>Observación directa</td>
+</tr>
+<tr>
+<td><strong>Respeto de turnos</strong></td>
+<td>Espera su turno y respeta las normas del juego</td>
+<td>Lista de cotejo</td>
+</tr>
+<tr>
+<td><strong>Expresión oral</strong></td>
+<td>Justifica sus decisiones usando lenguaje básico</td>
+<td>Grabación de audio</td>
+</tr>
+<tr>
+<td><strong>Gestión emocional</strong></td>
+<td>Identifica y expresa cómo se siente durante la actividad</td>
+<td>Autoevaluación</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777842716265-ts9xiauwm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><strong>ASOCIAMOS TAREAS A CRITERIOS DE EVALUACIÓN</strong></p>\n<table border=\"1\" cellpadding=\"8\" cellspacing=\"0\" width=\"100%\">\n<thead>\n<tr style=\"background-color: #2d1b69; color: white;\">\n<th>Criterio</th>\n<th>Descripción</th>\n<th>Instrumento</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>Reconocimiento numérico</strong></td>\n<td>Identifica visualmente los números del 1 al 6</td>\n<td>Observación directa</td>\n</tr>\n<tr>\n<td><strong>Asociación número-cantidad</strong></td>\n<td>Relaciona cada número con su cantidad correcta</td>\n<td>Rúbrica</td>\n</tr>\n<tr>\n<td><strong>Conteo oral</strong></td>\n<td>Cuenta secuencialmente del 1 al 6</td>\n<td>Observación directa</td>\n</tr>\n<tr>\n<td><strong>Respeto de turnos</strong></td>\n<td>Espera su turno y respeta las normas del juego</td>\n<td>Lista de cotejo</td>\n</tr>\n<tr>\n<td><strong>Expresión oral</strong></td>\n<td>Justifica sus decisiones usando lenguaje básico</td>\n<td>Grabación de audio</td>\n</tr>\n<tr>\n<td><strong>Gestión emocional</strong></td>\n<td>Identifica y expresa cómo se siente durante la actividad</td>\n<td>Autoevaluación</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moqaqwrl-sfgk8nv3t</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>M7. Instrumentos de Evaluación</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>M7. Instrumentos de Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>M7. Instrumentos de Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moqaqwrl-sfgk8nv3t</odePageId>
+      <odeBlockId>block-1777842873453-5iv68jye9</odeBlockId>
+      <blockName>Instrumentos de Evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moqaqwrl-sfgk8nv3t</odePageId>
+          <odeBlockId>block-1777842873453-5iv68jye9</odeBlockId>
+          <odeIdeviceId>idevice-1777842873450-5htcnbjty</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Se utilizan tres instrumentos complementarios para evaluar el progreso del alumnado de forma integral y adaptada a sus necesidades.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777842873450-5htcnbjty","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Se utilizan tres instrumentos complementarios para evaluar el progreso del alumnado de forma integral y adaptada a sus necesidades.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moqaqwrl-sfgk8nv3t</odePageId>
+      <odeBlockId>block-1777842922683-mycitun9i</odeBlockId>
+      <blockName>Instrumento 1: Rúbrica de Evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moqaqwrl-sfgk8nv3t</odePageId>
+          <odeBlockId>block-1777842922683-mycitun9i</odeBlockId>
+          <odeIdeviceId>idevice-1777842922682-gmxynnz0c</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Con esta rúbrica se va evaluar las cuatro competencias nucleares de la unidad:</p>
+<p>• Reconocimiento visual del número.</p>
+<p>• Asociación número-cantidad.</p>
+<p>• Conteo oral secuencial.</p>
+<p>• Escritura de los números.</p>
+<p>• Correspondencia uno a uno con objetos reales.</p>
+<p>• Comparación y ordenación de números (identifica cuál es mayor/menor y organiza números en secuencia).</p>
+<p>Las aplicaré en tres momentos diferenciados:</p>
+<p>• Evaluación inicial (diagnóstica): antes de comenzar la unidad, para detectar conocimientos previos y ajustar las actividades.</p>
+<p>• Evaluación formativa (procesual): a mitad de la unidad, durante actividades de manipulación, juego y trabajo digital.</p>
+<p>• Evaluación sumativa (final): al concluir la unidad, como cierre del proceso de aprendizaje.</p>
+<table border="1" cellpadding="8" cellspacing="0" width="100%" style="width: 102.881%;">
+<thead>
+<tr style="background-color: #2d1b69; color: white;">
+<th style="width: 23.2044%;">Criterio</th>
+<th style="width: 23.0387%;">Inicio (1)</th>
+<th style="width: 17.5691%;">En proceso (2)</th>
+<th style="width: 20.0552%;">Logrado (3)</th>
+<th style="width: 16.0773%;">Destacado (4)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="width: 23.2044%;"><strong>Reconocimiento visual</strong></td>
+<td style="background: #ffebee; width: 23.0387%;">No reconoce ningún número.</td>
+<td style="background: #fff8e1; width: 17.5691%;">Reconoce solo algunos (1–5) con ayuda.</td>
+<td style="background: #e8f5e9; width: 20.0552%;">Reconoce la mayoría de forma autónoma.</td>
+<td style="background: #e3f2fd; width: 16.0773%;">Reconoce todos con rapidez y seguridad.</td>
+</tr>
+<tr>
+<td style="width: 23.2044%;"><strong>Asociación número-cantidad</strong></td>
+<td style="background: #ffebee; width: 23.0387%;">No asocia el número con la cantidad.</td>
+<td style="background: #fff8e1; width: 17.5691%;">Asocia algunos con apoyo visual.</td>
+<td style="background: #e8f5e9; width: 20.0552%;">Asocia correctamente la mayoría.</td>
+<td style="background: #e3f2fd; width: 16.0773%;">Asocia todos sin ningún error.</td>
+</tr>
+<tr>
+<td style="width: 23.2044%;"><strong>Conteo oral secuencial</strong></td>
+<td style="background: #ffebee; width: 23.0387%;">No es capaz de contar secuencialmente.</td>
+<td style="background: #fff8e1; width: 17.5691%;">Cuenta del 1 al 5 con algunos errores.</td>
+<td style="background: #e8f5e9; width: 20.0552%;">Cuenta del 1 al 6 con algún pequeño error.</td>
+<td style="background: #e3f2fd; width: 16.0773%;">Cuenta del 1 al 6 con fluidez, incluso hacia atrás.</td>
+</tr>
+<tr>
+<td style="width: 23.2044%;"><strong>Respeto de turnos</strong></td>
+<td style="background: #ffebee; width: 23.0387%;">No respeta los turnos.</td>
+<td style="background: #fff8e1; width: 17.5691%;">Respeta los turnos con recordatorio constante.</td>
+<td style="background: #e8f5e9; width: 20.0552%;">Respeta los turnos con algún recordatorio.</td>
+<td style="background: #e3f2fd; width: 16.0773%;">Respeta siempre los turnos de forma autónoma.</td>
+</tr>
+<tr>
+<td style="width: 23.2044%;"><strong>Expresión oral</strong></td>
+<td style="background: #ffebee; width: 23.0387%;">No expresa sus decisiones verbalmente.</td>
+<td style="background: #fff8e1; width: 17.5691%;">Se expresa con apoyo del docente.</td>
+<td style="background: #e8f5e9; width: 20.0552%;">Se expresa con frases cortas de forma autónoma.</td>
+<td style="background: #e3f2fd; width: 16.0773%;">Justifica sus decisiones con claridad y fluidez.</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777842922682-gmxynnz0c","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Con esta rúbrica se va evaluar las cuatro competencias nucleares de la unidad:</p>\n<p>• Reconocimiento visual del número.</p>\n<p>• Asociación número-cantidad.</p>\n<p>• Conteo oral secuencial.</p>\n<p>• Escritura de los números.</p>\n<p>• Correspondencia uno a uno con objetos reales.</p>\n<p>• Comparación y ordenación de números (identifica cuál es mayor/menor y organiza números en secuencia).</p>\n<p>Las aplicaré en tres momentos diferenciados:</p>\n<p>• Evaluación inicial (diagnóstica): antes de comenzar la unidad, para detectar conocimientos previos y ajustar las actividades.</p>\n<p>• Evaluación formativa (procesual): a mitad de la unidad, durante actividades de manipulación, juego y trabajo digital.</p>\n<p>• Evaluación sumativa (final): al concluir la unidad, como cierre del proceso de aprendizaje.</p>\n<table border=\"1\" cellpadding=\"8\" cellspacing=\"0\" width=\"100%\" style=\"width: 102.881%;\">\n<thead>\n<tr style=\"background-color: #2d1b69; color: white;\">\n<th style=\"width: 23.2044%;\">Criterio</th>\n<th style=\"width: 23.0387%;\">Inicio (1)</th>\n<th style=\"width: 17.5691%;\">En proceso (2)</th>\n<th style=\"width: 20.0552%;\">Logrado (3)</th>\n<th style=\"width: 16.0773%;\">Destacado (4)</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"width: 23.2044%;\"><strong>Reconocimiento visual</strong></td>\n<td style=\"background: #ffebee; width: 23.0387%;\">No reconoce ningún número.</td>\n<td style=\"background: #fff8e1; width: 17.5691%;\">Reconoce solo algunos (1–5) con ayuda.</td>\n<td style=\"background: #e8f5e9; width: 20.0552%;\">Reconoce la mayoría de forma autónoma.</td>\n<td style=\"background: #e3f2fd; width: 16.0773%;\">Reconoce todos con rapidez y seguridad.</td>\n</tr>\n<tr>\n<td style=\"width: 23.2044%;\"><strong>Asociación número-cantidad</strong></td>\n<td style=\"background: #ffebee; width: 23.0387%;\">No asocia el número con la cantidad.</td>\n<td style=\"background: #fff8e1; width: 17.5691%;\">Asocia algunos con apoyo visual.</td>\n<td style=\"background: #e8f5e9; width: 20.0552%;\">Asocia correctamente la mayoría.</td>\n<td style=\"background: #e3f2fd; width: 16.0773%;\">Asocia todos sin ningún error.</td>\n</tr>\n<tr>\n<td style=\"width: 23.2044%;\"><strong>Conteo oral secuencial</strong></td>\n<td style=\"background: #ffebee; width: 23.0387%;\">No es capaz de contar secuencialmente.</td>\n<td style=\"background: #fff8e1; width: 17.5691%;\">Cuenta del 1 al 5 con algunos errores.</td>\n<td style=\"background: #e8f5e9; width: 20.0552%;\">Cuenta del 1 al 6 con algún pequeño error.</td>\n<td style=\"background: #e3f2fd; width: 16.0773%;\">Cuenta del 1 al 6 con fluidez, incluso hacia atrás.</td>\n</tr>\n<tr>\n<td style=\"width: 23.2044%;\"><strong>Respeto de turnos</strong></td>\n<td style=\"background: #ffebee; width: 23.0387%;\">No respeta los turnos.</td>\n<td style=\"background: #fff8e1; width: 17.5691%;\">Respeta los turnos con recordatorio constante.</td>\n<td style=\"background: #e8f5e9; width: 20.0552%;\">Respeta los turnos con algún recordatorio.</td>\n<td style=\"background: #e3f2fd; width: 16.0773%;\">Respeta siempre los turnos de forma autónoma.</td>\n</tr>\n<tr>\n<td style=\"width: 23.2044%;\"><strong>Expresión oral</strong></td>\n<td style=\"background: #ffebee; width: 23.0387%;\">No expresa sus decisiones verbalmente.</td>\n<td style=\"background: #fff8e1; width: 17.5691%;\">Se expresa con apoyo del docente.</td>\n<td style=\"background: #e8f5e9; width: 20.0552%;\">Se expresa con frases cortas de forma autónoma.</td>\n<td style=\"background: #e3f2fd; width: 16.0773%;\">Justifica sus decisiones con claridad y fluidez.</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moqaqwrl-sfgk8nv3t</odePageId>
+      <odeBlockId>block-1777842977381-2bsrtpret</odeBlockId>
+      <blockName>Instrumento 2: Lista de Cotejo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moqaqwrl-sfgk8nv3t</odePageId>
+          <odeBlockId>block-1777842977381-2bsrtpret</odeBlockId>
+          <odeIdeviceId>idevice-1777842977378-l05okt6pf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p></p>
+<table border="1" cellpadding="8" cellspacing="0" width="100%">
+<thead>
+<tr style="background-color: #2d1b69; color: white;">
+<th>Indicador</th>
+<th>Sí</th>
+<th>No</th>
+<th>A veces</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Reconoce los números del 1 al 6</td>
+<td>⬜</td>
+<td>⬜</td>
+<td>⬜</td>
+</tr>
+<tr>
+<td>Asocia número con cantidad correctamente</td>
+<td>⬜</td>
+<td>⬜</td>
+<td>⬜</td>
+</tr>
+<tr>
+<td>Cuenta de forma secuencial</td>
+<td>⬜</td>
+<td>⬜</td>
+<td>⬜</td>
+</tr>
+<tr>
+<td>Respeta el turno de juego</td>
+<td>⬜</td>
+<td>⬜</td>
+<td>⬜</td>
+</tr>
+<tr>
+<td>Dialoga con el compañero</td>
+<td>⬜</td>
+<td>⬜</td>
+<td>⬜</td>
+</tr>
+<tr>
+<td>Gestiona la frustración adecuadamente</td>
+<td>⬜</td>
+<td>⬜</td>
+<td>⬜</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777842977378-l05okt6pf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p></p>\n<table border=\"1\" cellpadding=\"8\" cellspacing=\"0\" width=\"100%\">\n<thead>\n<tr style=\"background-color: #2d1b69; color: white;\">\n<th>Indicador</th>\n<th>Sí</th>\n<th>No</th>\n<th>A veces</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Reconoce los números del 1 al 6</td>\n<td>⬜</td>\n<td>⬜</td>\n<td>⬜</td>\n</tr>\n<tr>\n<td>Asocia número con cantidad correctamente</td>\n<td>⬜</td>\n<td>⬜</td>\n<td>⬜</td>\n</tr>\n<tr>\n<td>Cuenta de forma secuencial</td>\n<td>⬜</td>\n<td>⬜</td>\n<td>⬜</td>\n</tr>\n<tr>\n<td>Respeta el turno de juego</td>\n<td>⬜</td>\n<td>⬜</td>\n<td>⬜</td>\n</tr>\n<tr>\n<td>Dialoga con el compañero</td>\n<td>⬜</td>\n<td>⬜</td>\n<td>⬜</td>\n</tr>\n<tr>\n<td>Gestiona la frustración adecuadamente</td>\n<td>⬜</td>\n<td>⬜</td>\n<td>⬜</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moqaqwrl-sfgk8nv3t</odePageId>
+      <odeBlockId>block-1777843004011-tksdxl5b8</odeBlockId>
+      <blockName>Instrumento 3: Diana de Autoevaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moqaqwrl-sfgk8nv3t</odePageId>
+          <odeBlockId>block-1777843004011-tksdxl5b8</odeBlockId>
+          <odeIdeviceId>idevice-1777843004010-naskwv803</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Al finalizar la sesión, el alumnado colorea la diana indicando cómo se ha sentido en cada aspecto:</p>
+<p>1 = Necesito mucha ayuda<br />2 = Lo hago con ayuda<br />3 = Lo hago solo/a casi siempre<br />4 = ¡Lo sé hacer muy bien!<br /></p>
+<p>Sectores evaluados: Reconocer los números / Asociar número y cantidad / Respetar los turnos / Expresarme con mi compañero.</p>
+<p><img src="{{context_path}}/content/resources/Diana de Evaluación.jpg" title="DIANA DE EVALUACIÓN" width="1280" height="1810" alt="Diana de Evaluación" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777843004010-naskwv803","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Al finalizar la sesión, el alumnado colorea la diana indicando cómo se ha sentido en cada aspecto:</p>\n<p>1 = Necesito mucha ayuda<br />2 = Lo hago con ayuda<br />3 = Lo hago solo/a casi siempre<br />4 = ¡Lo sé hacer muy bien!<br /></p>\n<p>Sectores evaluados: Reconocer los números / Asociar número y cantidad / Respetar los turnos / Expresarme con mi compañero.</p>\n<p><img src=\"{{context_path}}/content/resources/Diana de Evaluación.jpg\" title=\"DIANA DE EVALUACIÓN\" width=\"1280\" height=\"1810\" alt=\"Diana de Evaluación\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moqaqwrp-uz76bd7mi</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>M8. Guía didáctica</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>M8. Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>M8. Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moqaqwrp-uz76bd7mi</odePageId>
+      <odeBlockId>block-1777843378095-5qk7hjoxn</odeBlockId>
+      <blockName>Guía Didáctica</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moqaqwrp-uz76bd7mi</odePageId>
+          <odeBlockId>block-1777843378095-5qk7hjoxn</odeBlockId>
+          <odeIdeviceId>idevice-1777843378090-6cfzharfo</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta guía recoge toda la información necesaria para que el docente pueda llevar a cabo la sesión de forma organizada, adaptada y efectiva.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777843378090-6cfzharfo","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta guía recoge toda la información necesaria para que el docente pueda llevar a cabo la sesión de forma organizada, adaptada y efectiva.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moqaqwrp-uz76bd7mi</odePageId>
+      <odeBlockId>block-1777843391307-jwsl0dbt1</odeBlockId>
+      <blockName>Metodología</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moqaqwrp-uz76bd7mi</odePageId>
+          <odeBlockId>block-1777843391307-jwsl0dbt1</odeBlockId>
+          <odeIdeviceId>idevice-1777843391306-u8bk3yekp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La sesiones se basa en los siguientes principios metodológicos:</p>
+<p>- Aprendizaje lúdico: el juego como motor del aprendizaje<br />- Aprendizaje cooperativo: trabajo en parejas con roles definidos<br />- Atención a la diversidad: adaptación de materiales y tiempos según las necesidades de cada alumno<br />- Refuerzo positivo: valoración continua del esfuerzo y los logros<br />- Apoyo visual: uso de pictogramas e instrucciones visuales en todo momento</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777843391306-u8bk3yekp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La sesiones se basa en los siguientes principios metodológicos:</p>\n<p>- Aprendizaje lúdico: el juego como motor del aprendizaje<br />- Aprendizaje cooperativo: trabajo en parejas con roles definidos<br />- Atención a la diversidad: adaptación de materiales y tiempos según las necesidades de cada alumno<br />- Refuerzo positivo: valoración continua del esfuerzo y los logros<br />- Apoyo visual: uso de pictogramas e instrucciones visuales en todo momento</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moqaqwrp-uz76bd7mi</odePageId>
+      <odeBlockId>block-1777843443477-dw99oe7pk</odeBlockId>
+      <blockName>Tabla de Actividades y Recursos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moqaqwrp-uz76bd7mi</odePageId>
+          <odeBlockId>block-1777843443477-dw99oe7pk</odeBlockId>
+          <odeIdeviceId>idevice-1777843443474-4fc3ohxuf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h3><br /></h3>
+<table border="1" cellpadding="8" cellspacing="0" width="100%">
+<thead>
+<tr style="background-color: #2d1b69; color: white;">
+<th>Actividad</th>
+<th>Objetivo</th>
+<th>Agrupamiento</th>
+<th>Tiempo</th>
+<th>Recursos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Activación de conocimientos previos</strong></td>
+<td>Conectar con saberes previos sobre los números.</td>
+<td>Individual y pequeño grupo</td>
+<td>5–7 min</td>
+<td>Tarjetas numéricas visuales</td>
+</tr>
+<tr>
+<td><strong>Modelado del juego</strong></td>
+<td>Comprender las reglas del dominó adaptado.</td>
+<td>Gran grupo</td>
+<td>5 min</td>
+<td>Fichas de dominó, pictogramas</td>
+</tr>
+<tr>
+<td><strong>Juego guiado de dominó</strong></td>
+<td>Identificar y asociar números del 1 al 6.</td>
+<td>Parejas</td>
+<td>15 min</td>
+<td>Dominó adaptado con fichas de madera</td>
+</tr>
+<tr>
+<td><strong>Diálogo y toma de decisiones</strong></td>
+<td>Expresión oral básica. Justificar asociaciones numéricas.</td>
+<td>Parejas</td>
+<td>5–7 min</td>
+<td>Grabadora de audio (tablet)</td>
+</tr>
+<tr>
+<td><strong>Resolución de conflictos</strong></td>
+<td>Resolución pacífica. Uso del diálogo.</td>
+<td>Parejas con apoyo docente</td>
+<td>3–5 min</td>
+<td>Carteles o pictogramas digitales</td>
+</tr>
+<tr>
+<td><strong>Evaluación lúdica</strong></td>
+<td>Consolidar asociación numérica.</td>
+<td>Individual</td>
+<td>5–7 min</td>
+<td>Kahoot! o actividad de arrastrar fichas</td>
+</tr>
+<tr>
+<td><strong>Autoevaluación guiada</strong></td>
+<td>Identificar emociones y expresar sentimientos.</td>
+<td>Individual y pequeño grupo</td>
+<td>7 min</td>
+<td>Rueda de emociones / ClassDojo</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777843443474-4fc3ohxuf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h3><br /></h3>\n<table border=\"1\" cellpadding=\"8\" cellspacing=\"0\" width=\"100%\">\n<thead>\n<tr style=\"background-color: #2d1b69; color: white;\">\n<th>Actividad</th>\n<th>Objetivo</th>\n<th>Agrupamiento</th>\n<th>Tiempo</th>\n<th>Recursos</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>Activación de conocimientos previos</strong></td>\n<td>Conectar con saberes previos sobre los números.</td>\n<td>Individual y pequeño grupo</td>\n<td>5–7 min</td>\n<td>Tarjetas numéricas visuales</td>\n</tr>\n<tr>\n<td><strong>Modelado del juego</strong></td>\n<td>Comprender las reglas del dominó adaptado.</td>\n<td>Gran grupo</td>\n<td>5 min</td>\n<td>Fichas de dominó, pictogramas</td>\n</tr>\n<tr>\n<td><strong>Juego guiado de dominó</strong></td>\n<td>Identificar y asociar números del 1 al 6.</td>\n<td>Parejas</td>\n<td>15 min</td>\n<td>Dominó adaptado con fichas de madera</td>\n</tr>\n<tr>\n<td><strong>Diálogo y toma de decisiones</strong></td>\n<td>Expresión oral básica. Justificar asociaciones numéricas.</td>\n<td>Parejas</td>\n<td>5–7 min</td>\n<td>Grabadora de audio (tablet)</td>\n</tr>\n<tr>\n<td><strong>Resolución de conflictos</strong></td>\n<td>Resolución pacífica. Uso del diálogo.</td>\n<td>Parejas con apoyo docente</td>\n<td>3–5 min</td>\n<td>Carteles o pictogramas digitales</td>\n</tr>\n<tr>\n<td><strong>Evaluación lúdica</strong></td>\n<td>Consolidar asociación numérica.</td>\n<td>Individual</td>\n<td>5–7 min</td>\n<td>Kahoot! o actividad de arrastrar fichas</td>\n</tr>\n<tr>\n<td><strong>Autoevaluación guiada</strong></td>\n<td>Identificar emociones y expresar sentimientos.</td>\n<td>Individual y pequeño grupo</td>\n<td>7 min</td>\n<td>Rueda de emociones / ClassDojo</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moqaqwrp-uz76bd7mi</odePageId>
+      <odeBlockId>block-1777843485628-6wbgj9e5g</odeBlockId>
+      <blockName>Resolución de problemas técnicos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moqaqwrp-uz76bd7mi</odePageId>
+          <odeBlockId>block-1777843485628-6wbgj9e5g</odeBlockId>
+          <odeIdeviceId>idevice-1777843485627-bvwgkznp7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Revisión previa: comprobar antes de la sesión que todos los dispositivos y aplicaciones funcionan correctamente.</li>
+<li>Plan B analógico: disponer siempre de materiales físicos que permitan continuar sin tecnología.</li>
+<li>Simplicidad en herramientas: usar aplicaciones sencillas e intuitivas conocidas por el alumnado.</li>
+<li>Apoyo del centro: contar con la coordinación TIC si el problema persiste.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777843485627-bvwgkznp7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Revisión previa: comprobar antes de la sesión que todos los dispositivos y aplicaciones funcionan correctamente.</li>\n<li>Plan B analógico: disponer siempre de materiales físicos que permitan continuar sin tecnología.</li>\n<li>Simplicidad en herramientas: usar aplicaciones sencillas e intuitivas conocidas por el alumnado.</li>\n<li>Apoyo del centro: contar con la coordinación TIC si el problema persiste.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moqaqwrs-gbnfgrhr3</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>M9. Créditos</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>M9. Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>M9. Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moqaqwrs-gbnfgrhr3</odePageId>
+      <odeBlockId>block-1777843554397-2kjnkphfw</odeBlockId>
+      <blockName>Créditos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moqaqwrs-gbnfgrhr3</odePageId>
+          <odeBlockId>block-1777843554397-2kjnkphfw</odeBlockId>
+          <odeIdeviceId>idevice-1777843554395-g26owx06i</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Dominando los números: Un viaje lúdico hacia la asociación numérica</p>
+<p>Situación de Aprendizaje diseñada para alumnado con necesidades educativas especiales de 1º y 2º de Educación Primaria.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777843554395-g26owx06i","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Dominando los números: Un viaje lúdico hacia la asociación numérica</p>\n<p>Situación de Aprendizaje diseñada para alumnado con necesidades educativas especiales de 1º y 2º de Educación Primaria.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moqaqwrs-gbnfgrhr3</odePageId>
+      <odeBlockId>block-1777843579444-y8nkwwa0m</odeBlockId>
+      <blockName>Autoría</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moqaqwrs-gbnfgrhr3</odePageId>
+          <odeBlockId>block-1777843579444-y8nkwwa0m</odeBlockId>
+          <odeIdeviceId>idevice-1777843579443-vwm3t0y6l</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>👩‍🏫 Autora: Mª Carmen Escobar Gómez</p>
+<p>📅 Año: 2026</p>
+<p>🏫 Etapa: Educación Primaria · NEE</p>
+<p>🌍 Lengua: Castellano</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777843579443-vwm3t0y6l","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>👩‍🏫 Autora: Mª Carmen Escobar Gómez</p>\n<p>📅 Año: 2026</p>\n<p>🏫 Etapa: Educación Primaria · NEE</p>\n<p>🌍 Lengua: Castellano</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moqaqwrs-gbnfgrhr3</odePageId>
+      <odeBlockId>block-1777843599396-c8ttb1ke2</odeBlockId>
+      <blockName>Herramientas utilizadas</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moqaqwrs-gbnfgrhr3</odePageId>
+          <odeBlockId>block-1777843599396-c8ttb1ke2</odeBlockId>
+          <odeIdeviceId>idevice-1777843599395-mk9w6yw3f</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>eXeLearning: Plataforma de creación del curso</li>
+<li>Padlet:  Mural colaborativo de recursos</li>
+<li>Genially: Curación de contenidos y línea temporal</li>
+<li>Kahoot!: Evaluación lúdica</li>
+<li>ClassDojo: Autoevaluación emocional</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777843599395-mk9w6yw3f","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>eXeLearning: Plataforma de creación del curso</li>\n<li>Padlet:  Mural colaborativo de recursos</li>\n<li>Genially: Curación de contenidos y línea temporal</li>\n<li>Kahoot!: Evaluación lúdica</li>\n<li>ClassDojo: Autoevaluación emocional</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moqaqwrs-gbnfgrhr3</odePageId>
+      <odeBlockId>block-1777843652310-j9yd6l94j</odeBlockId>
+      <blockName>Licencia</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moqaqwrs-gbnfgrhr3</odePageId>
+          <odeBlockId>block-1777843652310-j9yd6l94j</odeBlockId>
+          <odeIdeviceId>idevice-1777843652307-n86vvdvlm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Este material se comparte bajo licencia Creative Commons BY-NC-SA 4.0</p>
+<p>Puedes compartirlo y adaptarlo, no para uso comercial, debes citar la autoría original.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777843652307-n86vvdvlm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este material se comparte bajo licencia Creative Commons BY-NC-SA 4.0</p>\n<p>Puedes compartirlo y adaptarlo, no para uso comercial, debes citar la autoría original.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moqaqwrs-gbnfgrhr3</odePageId>
+      <odeBlockId>block-1777843861750-yb6vnl308</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moqaqwrs-gbnfgrhr3</odePageId>
+          <odeBlockId>block-1777843861750-yb6vnl308</odeBlockId>
+          <odeIdeviceId>idevice-1777843861747-g2kr5vc49</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info" height="206" style="width: 80%;"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th style="width: 25.0869%;">Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">DOMINANDO LOS NÚMEROS</span></td>
+</tr>
+<tr>
+<th style="width: 25.0869%;">Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th style="width: 25.0869%;">Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">-</span></td>
+</tr>
+<tr>
+<th style="width: 25.0869%;">Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
